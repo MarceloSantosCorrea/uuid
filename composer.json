@@ -1,0 +1,18 @@
+{
+  "name": "marcelocorrea/uuid",
+  "description": "Uuid Trait for Laravel",
+  "authors": [
+    {
+      "name": "Marcelo Corrêa",
+      "email": "marcelocorrea229@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MarceloCorrea\\Uuid\\": "src/"
+    }
+  },
+  "require": {
+    "ramsey/uuid": "^4.1"
+  }
+}
